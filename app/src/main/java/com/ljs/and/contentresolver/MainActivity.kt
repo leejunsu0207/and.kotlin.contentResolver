@@ -1,5 +1,6 @@
 package com.ljs.and.contentresolver
 
+
 import android.Manifest
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
