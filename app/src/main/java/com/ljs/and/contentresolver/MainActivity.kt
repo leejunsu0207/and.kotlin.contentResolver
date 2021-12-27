@@ -15,7 +15,6 @@ class MainActivity : BaseActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
-
         requirePermissions(arrayOf(Manifest.permission.READ_EXTERNAL_STORAGE), 999)
 
 
